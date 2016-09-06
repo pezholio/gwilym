@@ -1,0 +1,35 @@
+---
+gwilym:
+  cols: 3
+  rows: 1
+  metrics:
+    -
+      metric: acheivement-points
+      colours:
+        text: white
+        box: green
+      type: number
+      row: 1
+      col: 1
+      height: 2
+      width: 1
+    -
+      metric: behaviour-points
+      colours:
+        text: white
+        box: red
+      type: number
+      row: 1
+      col: 2
+      height: 2
+      width: 1
+    -
+      metric: total-points
+      colours:
+        text: white
+        box: blue
+      type: number
+      row: 1
+      col: 3
+      height: 2
+      width: 1
